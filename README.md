@@ -43,6 +43,8 @@ python3 main.py
 - Python 3
 - Linux (relies on Linux-specific system paths such as `/proc`)
 - `psutil`
+## Demo
+<img width="775" height="587" alt="Screenshot 2026-09-18 021459" src="https://github.com/user-attachments/assets/7e35afbf-ec6d-4be1-8480-b4c4b29884b9" />
 
 ## Project Structure
 
